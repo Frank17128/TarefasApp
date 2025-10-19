@@ -1,0 +1,3 @@
+/* ajustes leves sobre Bootstrap */
+.table td, .table th { vertical-align: middle; }
+.badge-status { font-size: .85rem; }

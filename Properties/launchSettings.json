@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TarefasApp": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5101;https://localhost:7101",
+      "environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" }
+    }
+  }
+}
